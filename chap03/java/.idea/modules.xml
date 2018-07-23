@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exam04.iml" filepath="$PROJECT_DIR$/.idea/modules/exam04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exam04_main.iml" filepath="$PROJECT_DIR$/.idea/modules/exam04_main.iml" group="exam04" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exam04_test.iml" filepath="$PROJECT_DIR$/.idea/modules/exam04_test.iml" group="exam04" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exam07.iml" filepath="$PROJECT_DIR$/.idea/modules/exam07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exam07_main.iml" filepath="$PROJECT_DIR$/.idea/modules/exam07_main.iml" group="exam07" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exam07_test.iml" filepath="$PROJECT_DIR$/.idea/modules/exam07_test.iml" group="exam07" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exam08.iml" filepath="$PROJECT_DIR$/.idea/modules/exam08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exam08_main.iml" filepath="$PROJECT_DIR$/.idea/modules/exam08_main.iml" group="exam08" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exam08_test.iml" filepath="$PROJECT_DIR$/.idea/modules/exam08_test.iml" group="exam08" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-exam04.iml" filepath="$PROJECT_DIR$/.idea/modules/java-exam04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-exam04_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-exam04_main.iml" group="exam04" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-exam04_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-exam04_test.iml" group="exam04" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-exam07.iml" filepath="$PROJECT_DIR$/.idea/modules/java-exam07.iml" />
+    </modules>
+  </component>
+</project>

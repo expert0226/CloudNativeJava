@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="exam04_main" target="1.8" />
+      <module name="exam04_test" target="1.8" />
+      <module name="exam07_main" target="1.8" />
+      <module name="exam07_test" target="1.8" />
+      <module name="exam08_main" target="1.8" />
+      <module name="exam08_test" target="1.8" />
+      <module name="java-exam04_main" target="1.8" />
+      <module name="java-exam04_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
